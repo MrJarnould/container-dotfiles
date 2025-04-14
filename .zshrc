@@ -14,9 +14,6 @@ alias gp='git pull'
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
-# Set powerlevel10k as the theme
-ZSH_THEME="powerlevel10k/powerlevel10k"
-
 # Plugins
 plugins=(
   git
