@@ -14,9 +14,9 @@ fi
 # Plugins
 plugins=(
   git
+  virtualenv  # Added for automatic venv activation
   zsh-autosuggestions
   zsh-syntax-highlighting
-  virtualenv  # Added for automatic venv activation
 )
 
 # oh-my-zsh virtualenv plugin settings
